@@ -5,11 +5,13 @@
         "noImplicitAny": true,
         "strictNullChecks": true,
         "sourceMap": true,
-        "noEmitOnError": false
+        "noEmitOnError": false,
+        "outDir": "./dist"
     },
     "exclude": [
         "node_modules",
-        "previous_section"
+        "previous_section",
+        "dist"
     ]
 }
 
