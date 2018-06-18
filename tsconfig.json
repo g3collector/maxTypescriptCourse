@@ -1,18 +1,23 @@
 {
     "compilerOptions": {
-        "module": "commonjs",
+        // "module": "commonjs",
         "target": "es5",
         "noImplicitAny": true,
-        "strictNullChecks": true,
-        "sourceMap": true,
-        "noEmitOnError": false,
-        "outDir": "./dist"
+        // "strictNullChecks": true,
+        // "sourceMap": true,
+        // "noEmitOnError": false,
+        // "outDir": "./dist",
+        // "experimentalDecorators": true
     },
-    "exclude": [
-        "node_modules",
-        "previous_section",
-        "dist"
-    ]
+    // "files": [
+    //     "app.ts",
+    //     "./node_modules/@types/jquery/index.d.ts"
+    // ],
+    // "exclude": [
+    //     "node_modules",
+    //     "previous_section",
+    //     "dist"
+    // ]
 }
 
 //common js module standart 

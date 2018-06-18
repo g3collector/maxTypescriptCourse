@@ -1,5 +1,5 @@
 //simple generic
-
+/*
 function echo(data : any){
     return data;
 }
@@ -51,3 +51,4 @@ const simpleMath = new SimpleMath<string , string , number>();
 simpleMath.multiplyValue = "10";
 simpleMath.baseValue = "20";
 console.log(simpleMath.calculate());
+*/

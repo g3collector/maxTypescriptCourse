@@ -1,7 +1,7 @@
 // Create a generic Map (an Object like an Array, but instead with Key-Value Pairs). The key will always be a string.
 
 // Let's keep it simple and only add the following methods to the Map:
-
+/*
 class MaxSolution<T> {
     private map : {[key:string] : T} = {};
 
@@ -53,3 +53,4 @@ const stringMap = new MyMap<string>();
 stringMap.setItem('name', "Max");
 stringMap.setItem('age', "27");
 stringMap.printMap();
+*/
